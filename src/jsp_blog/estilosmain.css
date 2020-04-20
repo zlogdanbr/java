@@ -1,0 +1,122 @@
+
+body {
+
+background-color: black;
+border: solid 5px;
+border-color: black;
+padding: 1;
+
+}
+
+
+
+p {font-family: 'Microsoft Sans Serif','Futura Lt BT','Bookman Old Style', arial, courier;
+	font-size: 11pt;
+	color: white;
+	font-style: normal;
+	text-ident: 0.5 cm;
+	}
+	
+#banner {font-family: 'Microsoft Sans Serif','Futura Lt BT','Bookman Old Style', arial, courier;
+	font-size: 11pt;
+	color: #ff6600;
+	font-style: normal;
+	text-ident: 0.5 cm;
+	}
+	
+#esquerda {
+
+font-family: 'Courier New','Microsoft Sans Serif','Futura Lt BT','Bookman Old Style', arial, courier;
+	font-size: 10pt;
+	color: white;
+	text-align: right;
+	color: #cccc99;
+}
+
+
+
+h1 {
+  font-family: 'Microsoft Sans Serif','Courier New', arial, courier;
+	font-size: 28pt;
+	font-variant: normal;
+	color:#ff9900;
+	text-align: center;
+   }
+
+h2 {
+   font-family: 'Microsoft Sans Serif','Courier New', arial, courier;
+	 font-size: 20pt;
+	 font-style: normal;
+	 color:white;
+	 background-color: #003399;
+	 border: inset 1px;
+	 border-color: black;
+	 text-align: left;
+	 }
+
+h3 {font-family: 'Microsoft Sans Serif','Courier New', arial, courier;
+	 font-size: 12pt;
+	 font-style: normal;
+	 color:#336600;
+	 text-align: left;
+	 background-color: #ffffff;
+	 z-index: 2;
+	 border: inset 1px;
+	 border-color: #999999;
+	 padding: 2;
+	 }
+
+h4 {font-family: 'Microsoft Sans Serif','Courier New', arial, courier;
+	 font-size: 11pt;
+	 font-style: normal;
+	 color:#999999;
+	 text-align: left;) 
+	 }
+
+h5 {font-family: 'Microsoft Sans Serif','Courier New', arial, courier;;
+	 font-size: 10pt;
+	 font-style: normal;
+	 text-align: center;
+	 color:yellow; 
+	 }
+
+
+a:link {
+			color: white;
+  		font-family: 'Courier New', Arial, Courier;
+}
+			
+a:visited {
+			color: white;
+  		font-family: 'Courier New', Arial, Courier;			
+}
+			
+a:hover { color: #00ffff;
+  		font-family: 'Courier New', Arial, Courier;
+			background-color:black;
+}
+
+
+p.intro{
+background-color: grey;
+font-family: 'Courier New', Arial, Courier;
+color: #ffcc00;
+font-size 14pt;
+}
+			
+
+#bloco
+{
+background-color: #336699;
+border: solid 1px;
+border-color: #999999;
+padding: 2;
+}
+
+
+pre{
+		color: white;
+	}
+
+
+
